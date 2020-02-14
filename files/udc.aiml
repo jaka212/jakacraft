@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Hello</pattern>
+    <template>hi</template>
+  </category>
+<category>
+    <pattern>How are you</pattern>
+    <template>very good</template>
+</category>
+<category>
+    <pattern>hi</pattern>
+    <template>hi</template>
+</category>
+<category>
+    <pattern>will you be my valentine</pattern>
+    <template>Yes</template>
+</category>
+<category>
+    <pattern>what gender are you</pattern>
+    <template>I am genderless. I am of both genders. also known as trans</template>
+</category>
+</aiml>
