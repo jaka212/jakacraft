@@ -23,4 +23,12 @@
     <pattern>what gender are you</pattern>
     <template>I am genderless. I am of both genders. also known as trans</template>
 </category>
+<category>
+    <pattern>website</pattern>
+    <template>E
+<link>
+    <text>The chat</text>
+    <url>https://jakeclarke27.wixsite.com/chat</url>
+</link></template>
+</category>
 </aiml>
